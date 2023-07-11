@@ -6,3 +6,7 @@
 # This is my own work as defined by the University's
 # Academic Misconduct policy.
 #
+edge = 20
+area = 2
+edge * area
+40
